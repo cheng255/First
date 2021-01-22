@@ -15,7 +15,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.49</version>
+            <version>8.0.16</version>
         </dependency>
 
         <!-- Lombok: 自动插入编辑器并构建工具，以注解的方式，简化一些模版代码的编写，
